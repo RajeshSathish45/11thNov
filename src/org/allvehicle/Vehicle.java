@@ -19,7 +19,7 @@ public class Vehicle {
 		FourWheeler d = new FourWheeler();
 		d.car();
 		d.bus();
-		
+		d.lorry();
 		d.van();
 		
 		
