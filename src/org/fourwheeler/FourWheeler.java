@@ -14,6 +14,12 @@ public class FourWheeler {
 	
 	public void lorry() {
 		System.out.println("Lorry = Ashok Leyland");
+		
 	}
+	public void van() {
+		System.out.println("Van = Tempo");
+
+	}
+	
 	
 }
