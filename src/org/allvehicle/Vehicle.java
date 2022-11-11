@@ -20,7 +20,7 @@ public class Vehicle {
 		d.car();
 		d.bus();
 		d.lorry();
-		
+		d.van();
 		
 		
 		
